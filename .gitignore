@@ -1,0 +1,32 @@
+# Ignore build output folders
+Debug/
+Release/
+.out/
+*.out
+
+# Ignore CCS metadata and settings
+.settings/
+.cproject
+.project
+*.launch
+*.log
+*.dep
+*.map
+*.d
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore backup files
+*~
+*.swp
+*.bak
+
+# Ignore user-specific CCS files
+*.user
+*.sublime-workspace
+*.sublime-project
+
+# Ignore hidden files
+*.tmp
